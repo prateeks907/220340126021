@@ -1,0 +1,15 @@
+Login AWS account -->Aws console
+
+then, search "IAM : Manage access to AWS resource"
+
+then, go to access management
+then, click on users
+then, click on add users
+I entered user_name as prateeks907
+Add credential type--password in my case .
+
+next, Attach existing policies directly
+attach policy named as AmazonEC2FullAccess
+then,
+add key and value then create the user
+

@@ -1,0 +1,14 @@
+Q6. Answer
+
+Go to browser -> go to Github
+
+--> login to account
+
+create a new repository named as PRN (220340126021)
+
+Type this in Description "Prateek Singh PRN 220340126021"
+
+then, click on Create Repository, it will create Repository named as PRN 220340126021
+
+
+
